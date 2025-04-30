@@ -67,4 +67,33 @@ york/g
 colosseum
 rome/g
 
+variables for keeping track of menu screens/flow
+var MENU_LAUNCH:Number = 0;
+var MENU_CAMPAIGN_MAIN:Number = 1;
+var MENU_MULTIPLAYER_MAIN:Number = 2;
+var MENU_HERO_MAIN:Number = 3;
+var MENU_SOCIAL_MAIN:Number = 4;
+var MENU_SELECT_DIFFICULTY: Number = 5;
+var MENU_RYSE_LIVE:Number = 6;
+var MENU_CAMPAIGN_TIMELINE:Number = 7;
+var MENU_IN_GAME:Number = 8;
+var MENU_PAUSE:Number = 9;
+var MENU_SKILL_UPGRADES:Number = 10;
+var MENU_SETTINGS:Number = 11;
+var MENU_CAMPAIGN_COLLECTIBLES:Number = 12;
+var MENU_LOADING:Number = 13;
+var MENU_EXECUTIONS:Number = 14;
+var MENU_MULTIPLAYER_LOBY:Number = 15;
+var MENU_MULTIPLAYER_CREAT_GAME:Number = 16;
+var MENU_COLLECTABLE_SCROLLS:Number = 17;
+var MENU_COLLECTABLE_CONCEPT_ART:Number = 18;
+var MENU_COLLECTABLE_COMIC_BOOK:Number = 19;
+var MENU_COLLECTABLE_VIDEOS:Number = 20;
+var MENU_COLLECTABLE_MUSIC:Number = 21;
+var MENU_MULTIPLAYER_CUSTOM_MATCH:Number = 22;
+var MENU_BOOSTER_PACK:Number = 23;
+var MENU_CUSTOMIZE_MULTIPLAYER_GLADIATOR:Number = 24;
+var MENU_LEADERBOARDS:Number = 25;
+var MENU_ACHIEVEMENTS:Number = 26;
+
 */
